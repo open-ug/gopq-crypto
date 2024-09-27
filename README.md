@@ -1,6 +1,6 @@
 # Golang Post-Quantum Cryptography
 
-`gopq` is a Go library that implements post-quantum cryptographic algorithms.
+`gopq-crypto` is a Go library that implements post-quantum cryptographic algorithms.
 
 ## Algorithms
 
