@@ -6,3 +6,6 @@
 
 - [ ] [Kyber](https://pq-crystals.org/kyber/). Read Specification [here](https://pq-crystals.org/kyber/data/kyber-specification-round3-20210131.pdf).
 - [ ] [Dilithium](https://pq-crystals.org/dilithium/) (Signature). Read Specification [here](https://pq-crystals.org/dilithium/data/dilithium-specification-round3-20210208.pdf).
+
+
+> PROJECT STILL UNDER INITIAL DEVELOPMENT PHASE
